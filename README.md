@@ -7,7 +7,9 @@ It showcases my analytical approach to identifying, describing, and reporting so
 
 ## 🧭 Overview
 
-**Website under test:** [Practice Software Testing](https://www.practicesoftwaretesting.com/)  
+**Website under test:**  
+   Main site: [https://www.practicesoftwaretesting.com/](https://www.practicesoftwaretesting.com/)  
+   Test environment (with bugs): [https://with-bugs.practicesoftwaretesting.com/#/](https://with-bugs.practicesoftwaretesting.com/#/)  
 **Testing type:** Exploratory and functional testing  
 **Environment:** Google Chrome 142.0 / Windows 11  
 **Goal:** Identify usability, validation, and functional issues across key user flows such as login, add to cart, and checkout.
@@ -20,7 +22,6 @@ It showcases my analytical approach to identifying, describing, and reporting so
 |------|--------------|
 | 🪲 [Bug_Reports.md](./Bug_Reports.md) | Detailed bug reports with steps to reproduce, expected vs actual results, and screenshots. |
 | 🧪 [Test_Cases.md](./Test_Cases.md) | Structured test cases for main functionalities (login, cart, checkout). |
-| 🔍 [Exploratory_Notes.md](./Exploratory_Notes.md) | Freeform notes and observations from exploratory testing sessions. |
 
 ---
 
