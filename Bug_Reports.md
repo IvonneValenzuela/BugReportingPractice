@@ -275,7 +275,7 @@ An invalid category **“Undefined”** appears in the dropdown list, and select
 
 **📷 Evidence:** 
 
-![Evidence Bug001](./assets/screenshots/Bug_0010.png) 
+![Evidence Bug001](./assets/screenshots/Bug_010.png) 
 
 
 
