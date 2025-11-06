@@ -1,6 +1,6 @@
 ## 🐞 Bug #001 – “Add to cart” label not visible
 
-**Environment:** Chrome / Windows 11  
+**Environment:** Google Chrome 142.0 / Windows 11  
 **Severity:** Medium  
 **Category:** Visual (UI)  
 **Preconditions:** N/A  
@@ -25,7 +25,7 @@ The **“Add to cart”** button label is not fully visible, it appears cropped 
 
 ## 🐞 Bug #002 – Price range filter not working correctly
 
-**Environment:** Chrome / Windows 11  
+**Environment:** Google Chrome 142.0 / Windows 11  
 **Severity:** High  
 **Category:** Functional  
 **Preconditions:** N/A  
@@ -52,7 +52,7 @@ The website displays items priced above the selected range.
 
 ## 🐞 Bug #003 – Some product images are missing in the catalogue view
 
-**Environment:** Chrome / Windows 11  
+**Environment:** Google Chrome 142.0 / Windows 11  
 **Severity:** Low
 **Category:** Visual 
 **Preconditions:** N/A  
@@ -77,7 +77,7 @@ Some products appear without an image in the product grid, although an image is 
 
 ## 🐞 Bug #004 – Quantity increment button (“+”) not working correctly
 
-**Environment:** Chrome / Windows 11  
+**Environment:** Google Chrome 142.0 / Windows 11  
 **Severity:** Medium 
 **Category:** Functional (UI Interaction)  
 **Preconditions:** N/A  
@@ -103,7 +103,7 @@ The **“+”** button is visible but unresponsive, it does not increment the qu
 
 ## 🐞 Bug #005 – Remove item button (“X”) not working correctly
 
-**Environment:** Chrome / Windows 11  
+**Environment:** Google Chrome 142.0 / Windows 11  
 **Severity:** High 
 **Category:** Functional (UI Interaction)  
 **Preconditions:** At least one item must be added to the cart.    
@@ -131,7 +131,7 @@ The **“X”** button is visible but unresponsive, clicking it does not remove 
 
 ## 🐞 Bug #006 – User name not displayed after login
 
-**Environment:** Chrome / Windows 11  
+**Environment:** Google Chrome 142.0 / Windows 11  
 **Severity:** High 
 **Category:** Functional / Visual  
 **Preconditions:** User account must exist and be logged in successfully.     
@@ -159,7 +159,7 @@ Instead of displaying the user’s name, the message **“User Data not found”
 
 ## 🐞 Bug #007 – Incorrect payment option displayed (“Errror 304 – Missing Payment Gateway”)
 
-**Environment:** Chrome / Windows 11  
+**Environment:** Google Chrome 142.0 / Windows 11  
 **Severity:** Medium
 **Category:** Functional / Content  
 **Preconditions:** User must be logged in and have items in the cart.
@@ -187,7 +187,7 @@ An invalid option appears in the dropdown **“Errror 304 – Missing Payment Ga
 
 ## 🐞 Bug #008 – “Out of stock” items can still be added to cart.  
 
-**Environment:** Chrome / Windows 11  
+**Environment:** Google Chrome 142.0 / Windows 11  
 **Severity:** High 
 **Category:**   Functional
 **Preconditions:** User must be logged in.    
@@ -218,7 +218,7 @@ The **Add to cart** button remains active, allowing the user to add an **out-of-
 
 ## 🐞 Bug #009 – Payment confirmation not completing checkout process
 
-**Environment:** Chrome / Windows 11  
+**Environment:** Google Chrome 142.0 / Windows 11  
 **Severity:** High  
 **Category:** Functional (Checkout Flow)  
 **Preconditions:** At least one item added to the shopping cart.  
@@ -251,7 +251,7 @@ The message **“Payment was successful”** appears, however:
 
 ## 🐞 Bug #010 – Undefined category displayed in the “Categories” dropdown
 
-**Environment:** Chrome / Windows 11  
+**Environment:** Google Chrome 142.0 / Windows 11  
 **Severity:** Medium
 **Category:** Functional / Content 
 **Preconditions:** N/A
